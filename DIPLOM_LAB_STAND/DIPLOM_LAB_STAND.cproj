@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="14.0">
+  <PropertyGroup>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectVersion>7.0</ProjectVersion>
+    <ToolchainName>com.Atmel.AVRGCC8.C</ToolchainName>
+    <ProjectGuid>dce6c7e3-ee26-4d79-826b-08594b9ad897</ProjectGuid>
+    <avrdevice>ATmega1284P</avrdevice>
+    <avrdeviceseries>none</avrdeviceseries>
+    <OutputType>Executable</OutputType>
+    <Language>C</Language>
+    <OutputFileName>$(MSBuildProjectName)</OutputFileName>
+    <OutputFileExtension>.elf</OutputFileExtension>
+    <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
+    <AssemblyName>keybard_display_coderev</AssemblyName>
+    <Name>DIPLOM_LAB_STAND</Name>
+    <RootNamespace>keybard_display_coderev</RootNamespace>
+    <ToolchainFlavour>Native</ToolchainFlavour>
+    <KeepTimersRunning>true</KeepTimersRunning>
+    <OverrideVtor>false</OverrideVtor>
+    <CacheFlash>true</CacheFlash>
+    <ProgFlashFromRam>true</ProgFlashFromRam>
+    <RamSnippetAddress>0x20000000</RamSnippetAddress>
+    <UncachedRange />
+    <preserveEEPROM>true</preserveEEPROM>
+    <OverrideVtorValue>exception_table</OverrideVtorValue>
+    <BootSegment>2</BootSegment>
+    <ResetRule>0</ResetRule>
+    <eraseonlaunchrule>0</eraseonlaunchrule>
+    <EraseKey />
+    <AsfFrameworkConfig>
+      <framework-data xmlns="">
+        <options />
+        <configurations />
+        <files />
+        <documentation help="" />
+        <offline-documentation help="" />
+        <dependencies>
+          <content-extension eid="atmel.asf" uuidref="Atmel.ASF" version="3.52.0" />
+        </dependencies>
+      </framework-data>
+    </AsfFrameworkConfig>
+    <avrtool>com.atmel.avrdbg.tool.simulator</avrtool>
+    <avrtoolserialnumber />
+    <avrdeviceexpectedsignature>0x1E9705</avrdeviceexpectedsignature>
+    <com_atmel_avrdbg_tool_simulator>
+      <ToolOptions>
+        <InterfaceProperties>
+        </InterfaceProperties>
+        <InterfaceName>
+        </InterfaceName>
+      </ToolOptions>
+      <ToolType>com.atmel.avrdbg.tool.simulator</ToolType>
+      <ToolNumber>
+      </ToolNumber>
+      <ToolName>Simulator</ToolName>
+    </com_atmel_avrdbg_tool_simulator>
+    <avrtoolinterface />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <ToolchainSettings>
+      <AvrGcc>
+        <avrgcc.common.Device>-mmcu=atmega1284p -B "%24(PackRepoDir)\atmel\ATmega_DFP\1.7.374\gcc\dev\atmega1284p"</avrgcc.common.Device>
+        <avrgcc.common.optimization.RelaxBranches>True</avrgcc.common.optimization.RelaxBranches>
+        <avrgcc.common.outputfiles.hex>True</avrgcc.common.outputfiles.hex>
+        <avrgcc.common.outputfiles.lss>True</avrgcc.common.outputfiles.lss>
+        <avrgcc.common.outputfiles.eep>True</avrgcc.common.outputfiles.eep>
+        <avrgcc.common.outputfiles.srec>True</avrgcc.common.outputfiles.srec>
+        <avrgcc.common.outputfiles.usersignatures>False</avrgcc.common.outputfiles.usersignatures>
+        <avrgcc.compiler.general.ChangeDefaultCharTypeUnsigned>True</avrgcc.compiler.general.ChangeDefaultCharTypeUnsigned>
+        <avrgcc.compiler.general.ChangeDefaultBitFieldUnsigned>True</avrgcc.compiler.general.ChangeDefaultBitFieldUnsigned>
+        <avrgcc.compiler.symbols.DefSymbols>
+          <ListValues>
+            <Value>NDEBUG</Value>
+          </ListValues>
+        </avrgcc.compiler.symbols.DefSymbols>
+        <avrgcc.compiler.directories.IncludePaths>
+          <ListValues>
+            <Value>%24(PackRepoDir)\atmel\ATmega_DFP\1.7.374\include\</Value>
+          </ListValues>
+        </avrgcc.compiler.directories.IncludePaths>
+        <avrgcc.compiler.optimization.level>Optimize for size (-Os)</avrgcc.compiler.optimization.level>
+        <avrgcc.compiler.optimization.PackStructureMembers>True</avrgcc.compiler.optimization.PackStructureMembers>
+        <avrgcc.compiler.optimization.AllocateBytesNeededForEnum>True</avrgcc.compiler.optimization.AllocateBytesNeededForEnum>
+        <avrgcc.compiler.warnings.AllWarnings>True</avrgcc.compiler.warnings.AllWarnings>
+        <avrgcc.linker.libraries.Libraries>
+          <ListValues>
+            <Value>libm</Value>
+          </ListValues>
+        </avrgcc.linker.libraries.Libraries>
+        <avrgcc.assembler.general.IncludePaths>
+          <ListValues>
+            <Value>%24(PackRepoDir)\atmel\ATmega_DFP\1.7.374\include\</Value>
+          </ListValues>
+        </avrgcc.assembler.general.IncludePaths>
+      </AvrGcc>
+    </ToolchainSettings>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <ToolchainSettings>
+      <AvrGcc>
+        <avrgcc.common.Device>-mmcu=atmega1284p -B "%24(PackRepoDir)\atmel\ATmega_DFP\1.7.374\gcc\dev\atmega1284p"</avrgcc.common.Device>
+        <avrgcc.common.optimization.RelaxBranches>True</avrgcc.common.optimization.RelaxBranches>
+        <avrgcc.common.outputfiles.hex>True</avrgcc.common.outputfiles.hex>
+        <avrgcc.common.outputfiles.lss>True</avrgcc.common.outputfiles.lss>
+        <avrgcc.common.outputfiles.eep>True</avrgcc.common.outputfiles.eep>
+        <avrgcc.common.outputfiles.srec>True</avrgcc.common.outputfiles.srec>
+        <avrgcc.common.outputfiles.usersignatures>False</avrgcc.common.outputfiles.usersignatures>
+        <avrgcc.compiler.general.ChangeDefaultCharTypeUnsigned>True</avrgcc.compiler.general.ChangeDefaultCharTypeUnsigned>
+        <avrgcc.compiler.general.ChangeDefaultBitFieldUnsigned>True</avrgcc.compiler.general.ChangeDefaultBitFieldUnsigned>
+        <avrgcc.compiler.symbols.DefSymbols>
+          <ListValues>
+            <Value>DEBUG</Value>
+          </ListValues>
+        </avrgcc.compiler.symbols.DefSymbols>
+        <avrgcc.compiler.directories.IncludePaths>
+          <ListValues>
+            <Value>%24(PackRepoDir)\atmel\ATmega_DFP\1.7.374\include\</Value>
+          </ListValues>
+        </avrgcc.compiler.directories.IncludePaths>
+        <avrgcc.compiler.optimization.level>Optimize debugging experience (-Og)</avrgcc.compiler.optimization.level>
+        <avrgcc.compiler.optimization.PackStructureMembers>True</avrgcc.compiler.optimization.PackStructureMembers>
+        <avrgcc.compiler.optimization.AllocateBytesNeededForEnum>True</avrgcc.compiler.optimization.AllocateBytesNeededForEnum>
+        <avrgcc.compiler.optimization.DebugLevel>Default (-g2)</avrgcc.compiler.optimization.DebugLevel>
+        <avrgcc.compiler.warnings.AllWarnings>True</avrgcc.compiler.warnings.AllWarnings>
+        <avrgcc.linker.libraries.Libraries>
+          <ListValues>
+            <Value>libm</Value>
+          </ListValues>
+        </avrgcc.linker.libraries.Libraries>
+        <avrgcc.assembler.general.IncludePaths>
+          <ListValues>
+            <Value>%24(PackRepoDir)\atmel\ATmega_DFP\1.7.374\include\</Value>
+          </ListValues>
+        </avrgcc.assembler.general.IncludePaths>
+        <avrgcc.assembler.debugging.DebugLevel>Default (-Wa,-g)</avrgcc.assembler.debugging.DebugLevel>
+      </AvrGcc>
+    </ToolchainSettings>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="font\font_5x7.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="font\font_5x7.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="keyboard\keyboard.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="keyboard\keyboard.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="keyboard\keyboard_elements.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="lcd16x2\lcd1602.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="lcd16x2\lcd1602.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="lcd\lcd.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="lcd\lcd.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="led_bar\led_bar.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="led_bar\led_bar.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="main.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="main.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="max31865\max31865.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="max31865\max31865.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="menus\menu_board_1\menu_board_1.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="menus\menu_board_1\menu_board_1.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="menus\menu_board_1\menu_items_board_1.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="menus\menu_board_2\menu_board_2.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="menus\menu_board_2\menu_board_2.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="menus\menu_board_2\menu_items_board_2.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="nav_buttons\nav_buttons.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="nav_buttons\nav_buttons.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="rtc\rtc.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="rtc\rtc.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\board_select\board_select.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\board_select\board_select.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\home\home_screen.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\home\home_screen.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\keyboard_test\keyboard_test.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\keyboard_test\keyboard_test.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\led_bar_test\led_bar_test.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\led_bar_test\led_bar_test.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\rtc_test\rtc_test.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\rtc_test\rtc_test.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\servo_test\servo_test.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\servo_test\servo_test.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\seven_segment_test\seven_segment_test.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\seven_segment_test\seven_segment_test.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\speaker_test\speaker_test.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\speaker_test\speaker_test.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\stepper_test\stepper_test.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\stepper_test\stepper_test.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\temp_lcd_test\temp_lcd_test.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="screens\temp_lcd_test\temp_lcd_test.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="servo\servo.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="servo\servo.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="seven_segment\seven_segment.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="seven_segment\seven_segment.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="speaker\speaker.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="speaker\speaker.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="stepmotor\stepmotor.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="stepmotor\stepmotor.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="twi\twi.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="twi\twi.h">
+      <SubType>compile</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="keyboard" />
+    <Folder Include="lcd" />
+    <Folder Include="font" />
+    <Folder Include="menus" />
+    <Folder Include="menus\menu_board_2" />
+    <Folder Include="menus\menu_board_1" />
+    <Folder Include="nav_buttons" />
+    <Folder Include="led_bar" />
+    <Folder Include="lcd16x2" />
+    <Folder Include="max31865" />
+    <Folder Include="rtc" />
+    <Folder Include="screens\temp_lcd_test" />
+    <Folder Include="screens\rtc_test" />
+    <Folder Include="twi" />
+    <Folder Include="screens\speaker_test" />
+    <Folder Include="speaker" />
+    <Folder Include="screens\led_bar_test" />
+    <Folder Include="screens\seven_segment_test" />
+    <Folder Include="seven_segment" />
+    <Folder Include="screens\home" />
+    <Folder Include="screens\board_select" />
+    <Folder Include="stepmotor" />
+    <Folder Include="screens\stepper_test" />
+    <Folder Include="screens\servo_test" />
+    <Folder Include="servo" />
+    <Folder Include="screens" />
+    <Folder Include="screens\keyboard_test" />
+  </ItemGroup>
+  <Import Project="$(AVRSTUDIO_EXE_PATH)\\Vs\\Compiler.targets" />
+</Project>

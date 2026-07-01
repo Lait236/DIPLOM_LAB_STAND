@@ -1,0 +1,1604 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+                              screens/stepper_test/stepper_test.o (__udivmodhi4)
+c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+                              max31865/max31865.o (__udivmodsi4)
+c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
+                              max31865/max31865.o (__divmodsi4)
+c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
+                              c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+                              C:/WORK/Atmel_studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega1284p/avr51/crtatmega1284p.o (exit)
+c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+                              keyboard/keyboard_elements.o (__do_copy_data)
+c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+                              keyboard/keyboard.o (__do_clear_bss)
+c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+                              max31865/max31865.o (__umulhisi3)
+c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_usmulhisi3.o)
+                              servo/servo.o (__usmulhisi3)
+c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_muluhisi3.o)
+                              max31865/max31865.o (__muluhisi3)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/WORK/Atmel_studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega1284p/avr51/crtatmega1284p.o
+ .bss           0x00000000        0x0 C:/WORK/Atmel_studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega1284p/avr51/crtatmega1284p.o
+ .text          0x00000000        0x0 font/font_5x7.o
+ .data          0x00000000        0x0 font/font_5x7.o
+ .bss           0x00000000        0x0 font/font_5x7.o
+ .text          0x00000000        0x0 keyboard/keyboard.o
+ .data          0x00000000        0x0 keyboard/keyboard.o
+ .bss           0x00000000        0x0 keyboard/keyboard.o
+ .text.keypad_scan_raw
+                0x00000000       0x50 keyboard/keyboard.o
+ .text.keypad_get_key_stepper
+                0x00000000       0x52 keyboard/keyboard.o
+ .bss.last_key.1931
+                0x00000000        0x1 keyboard/keyboard.o
+ .text          0x00000000        0x0 keyboard/keyboard_elements.o
+ .data          0x00000000        0x0 keyboard/keyboard_elements.o
+ .bss           0x00000000        0x0 keyboard/keyboard_elements.o
+ .text          0x00000000        0x0 lcd16x2/lcd1602.o
+ .data          0x00000000        0x0 lcd16x2/lcd1602.o
+ .bss           0x00000000        0x0 lcd16x2/lcd1602.o
+ .text          0x00000000        0x0 lcd/lcd.o
+ .data          0x00000000        0x0 lcd/lcd.o
+ .bss           0x00000000        0x0 lcd/lcd.o
+ .text          0x00000000        0x0 led_bar/led_bar.o
+ .data          0x00000000        0x0 led_bar/led_bar.o
+ .bss           0x00000000        0x0 led_bar/led_bar.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .bss.board_selected
+                0x00000000        0x1 main.o
+ .text          0x00000000        0x0 max31865/max31865.o
+ .data          0x00000000        0x0 max31865/max31865.o
+ .bss           0x00000000        0x0 max31865/max31865.o
+ .text          0x00000000        0x0 menus/menu_board_1/menu_board_1.o
+ .data          0x00000000        0x0 menus/menu_board_1/menu_board_1.o
+ .bss           0x00000000        0x0 menus/menu_board_1/menu_board_1.o
+ .text          0x00000000        0x0 menus/menu_board_1/menu_items_board_1.o
+ .data          0x00000000        0x0 menus/menu_board_1/menu_items_board_1.o
+ .bss           0x00000000        0x0 menus/menu_board_1/menu_items_board_1.o
+ .text          0x00000000        0x0 menus/menu_board_2/menu_board_2.o
+ .data          0x00000000        0x0 menus/menu_board_2/menu_board_2.o
+ .bss           0x00000000        0x0 menus/menu_board_2/menu_board_2.o
+ .text          0x00000000        0x0 menus/menu_board_2/menu_items_board_2.o
+ .data          0x00000000        0x0 menus/menu_board_2/menu_items_board_2.o
+ .bss           0x00000000        0x0 menus/menu_board_2/menu_items_board_2.o
+ .text          0x00000000        0x0 nav_buttons/nav_buttons.o
+ .data          0x00000000        0x0 nav_buttons/nav_buttons.o
+ .bss           0x00000000        0x0 nav_buttons/nav_buttons.o
+ .text          0x00000000        0x0 rtc/rtc.o
+ .data          0x00000000        0x0 rtc/rtc.o
+ .bss           0x00000000        0x0 rtc/rtc.o
+ .text          0x00000000        0x0 screens/board_select/board_select.o
+ .data          0x00000000        0x0 screens/board_select/board_select.o
+ .bss           0x00000000        0x0 screens/board_select/board_select.o
+ .text          0x00000000        0x0 screens/home/home_screen.o
+ .data          0x00000000        0x0 screens/home/home_screen.o
+ .bss           0x00000000        0x0 screens/home/home_screen.o
+ .text          0x00000000        0x0 screens/keyboard_test/keyboard_test.o
+ .data          0x00000000        0x0 screens/keyboard_test/keyboard_test.o
+ .bss           0x00000000        0x0 screens/keyboard_test/keyboard_test.o
+ .text          0x00000000        0x0 screens/led_bar_test/led_bar_test.o
+ .data          0x00000000        0x0 screens/led_bar_test/led_bar_test.o
+ .bss           0x00000000        0x0 screens/led_bar_test/led_bar_test.o
+ .text          0x00000000        0x0 screens/rtc_test/rtc_test.o
+ .data          0x00000000        0x0 screens/rtc_test/rtc_test.o
+ .bss           0x00000000        0x0 screens/rtc_test/rtc_test.o
+ .text          0x00000000        0x0 screens/servo_test/servo_test.o
+ .data          0x00000000        0x0 screens/servo_test/servo_test.o
+ .bss           0x00000000        0x0 screens/servo_test/servo_test.o
+ .text          0x00000000        0x0 screens/seven_segment_test/seven_segment_test.o
+ .data          0x00000000        0x0 screens/seven_segment_test/seven_segment_test.o
+ .bss           0x00000000        0x0 screens/seven_segment_test/seven_segment_test.o
+ .text          0x00000000        0x0 screens/speaker_test/speaker_test.o
+ .data          0x00000000        0x0 screens/speaker_test/speaker_test.o
+ .bss           0x00000000        0x0 screens/speaker_test/speaker_test.o
+ .text          0x00000000        0x0 screens/stepper_test/stepper_test.o
+ .data          0x00000000        0x0 screens/stepper_test/stepper_test.o
+ .bss           0x00000000        0x0 screens/stepper_test/stepper_test.o
+ .text          0x00000000        0x0 screens/temp_lcd_test/temp_lcd_test.o
+ .data          0x00000000        0x0 screens/temp_lcd_test/temp_lcd_test.o
+ .bss           0x00000000        0x0 screens/temp_lcd_test/temp_lcd_test.o
+ .text          0x00000000        0x0 servo/servo.o
+ .data          0x00000000        0x0 servo/servo.o
+ .bss           0x00000000        0x0 servo/servo.o
+ .text.max_servo_right
+                0x00000000        0xc servo/servo.o
+ .text          0x00000000        0x0 seven_segment/seven_segment.o
+ .data          0x00000000        0x0 seven_segment/seven_segment.o
+ .bss           0x00000000        0x0 seven_segment/seven_segment.o
+ .text.seven_segment_set_digits
+                0x00000000       0x22 seven_segment/seven_segment.o
+ .text          0x00000000        0x0 speaker/speaker.o
+ .data          0x00000000        0x0 speaker/speaker.o
+ .bss           0x00000000        0x0 speaker/speaker.o
+ .text          0x00000000        0x0 stepmotor/stepmotor.o
+ .data          0x00000000        0x0 stepmotor/stepmotor.o
+ .bss           0x00000000        0x0 stepmotor/stepmotor.o
+ .text.SM_forvard
+                0x00000000        0xe stepmotor/stepmotor.o
+ .text.SM_back  0x00000000        0xe stepmotor/stepmotor.o
+ .text          0x00000000        0x0 twi/twi.o
+ .data          0x00000000        0x0 twi/twi.o
+ .bss           0x00000000        0x0 twi/twi.o
+ .text.I2C_SendByteByADDR
+                0x00000000       0x22 twi/twi.o
+ .text          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_usmulhisi3.o)
+ .data          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_usmulhisi3.o)
+ .bss           0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_usmulhisi3.o)
+ .text          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_muluhisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800100         0x00004000         rw !x
+eeprom           0x00810000         0x00001000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/WORK/Atmel_studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega1284p/avr51/crtatmega1284p.o
+LOAD font/font_5x7.o
+LOAD keyboard/keyboard.o
+LOAD keyboard/keyboard_elements.o
+LOAD lcd16x2/lcd1602.o
+LOAD lcd/lcd.o
+LOAD led_bar/led_bar.o
+LOAD main.o
+LOAD max31865/max31865.o
+LOAD menus/menu_board_1/menu_board_1.o
+LOAD menus/menu_board_1/menu_items_board_1.o
+LOAD menus/menu_board_2/menu_board_2.o
+LOAD menus/menu_board_2/menu_items_board_2.o
+LOAD nav_buttons/nav_buttons.o
+LOAD rtc/rtc.o
+LOAD screens/board_select/board_select.o
+LOAD screens/home/home_screen.o
+LOAD screens/keyboard_test/keyboard_test.o
+LOAD screens/led_bar_test/led_bar_test.o
+LOAD screens/rtc_test/rtc_test.o
+LOAD screens/servo_test/servo_test.o
+LOAD screens/seven_segment_test/seven_segment_test.o
+LOAD screens/speaker_test/speaker_test.o
+LOAD screens/stepper_test/stepper_test.o
+LOAD screens/temp_lcd_test/temp_lcd_test.o
+LOAD servo/servo.o
+LOAD seven_segment/seven_segment.o
+LOAD speaker/speaker.o
+LOAD stepmotor/stepmotor.o
+LOAD twi/twi.o
+START GROUP
+LOAD c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a
+END GROUP
+START GROUP
+LOAD c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a
+LOAD c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a
+LOAD c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a
+LOAD C:/WORK/Atmel_studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega1284p/avr51\libatmega1284p.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800100
+                [0x00020000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00004000]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xff00
+                [0x00001000]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x3800
+ *(.vectors)
+ .vectors       0x00000000       0x8c C:/WORK/Atmel_studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega1284p/avr51/crtatmega1284p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000008c                . = ALIGN (0x2)
+                0x0000008c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000008c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000008c                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.font_service_symb
+                0x0000008c        0xf font/font_5x7.o
+                0x0000008c                font_service_symb
+ .progmem.data.font_digit
+                0x0000009b       0x32 font/font_5x7.o
+                0x0000009b                font_digit
+ .progmem.data.font_letters
+                0x000000cd       0xaa font/font_5x7.o
+                0x000000cd                font_letters
+                0x00000178                . = ALIGN (0x2)
+ *fill*         0x00000177        0x1 
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000178                __ctors_start = .
+ *(.ctors)
+                0x00000178                __ctors_end = .
+                0x00000178                __dtors_start = .
+ *(.dtors)
+                0x00000178                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000178        0x0 C:/WORK/Atmel_studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega1284p/avr51/crtatmega1284p.o
+                0x00000178                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000178        0xc C:/WORK/Atmel_studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega1284p/avr51/crtatmega1284p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000184       0x1a c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+                0x00000184                __do_copy_data
+ .init4         0x0000019e       0x10 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+                0x0000019e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000001ae        0x6 C:/WORK/Atmel_studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega1284p/avr51/crtatmega1284p.o
+ *(.init9)
+ *(.text)
+ .text          0x000001b4        0x2 C:/WORK/Atmel_studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega1284p/avr51/crtatmega1284p.o
+                0x000001b4                __vector_22
+                0x000001b4                __vector_28
+                0x000001b4                __vector_1
+                0x000001b4                __vector_32
+                0x000001b4                __vector_34
+                0x000001b4                __vector_24
+                0x000001b4                __vector_12
+                0x000001b4                __bad_interrupt
+                0x000001b4                __vector_6
+                0x000001b4                __vector_31
+                0x000001b4                __vector_3
+                0x000001b4                __vector_23
+                0x000001b4                __vector_30
+                0x000001b4                __vector_25
+                0x000001b4                __vector_11
+                0x000001b4                __vector_17
+                0x000001b4                __vector_19
+                0x000001b4                __vector_7
+                0x000001b4                __vector_27
+                0x000001b4                __vector_5
+                0x000001b4                __vector_33
+                0x000001b4                __vector_4
+                0x000001b4                __vector_2
+                0x000001b4                __vector_21
+                0x000001b4                __vector_15
+                0x000001b4                __vector_29
+                0x000001b4                __vector_8
+                0x000001b4                __vector_26
+                0x000001b4                __vector_14
+                0x000001b4                __vector_10
+                0x000001b4                __vector_18
+                0x000001b4                __vector_20
+                0x000001b6                . = ALIGN (0x2)
+ *(.text.*)
+ .text.keypad_all_columns_high
+                0x000001b6        0x8 keyboard/keyboard.o
+ .text.keypad_select_column
+                0x000001be       0x28 keyboard/keyboard.o
+ .text.keypad_read_row
+                0x000001e6       0x26 keyboard/keyboard.o
+ .text.keypad_init
+                0x0000020c       0x1a keyboard/keyboard.o
+                0x0000020c                keypad_init
+ .text.keypad_get_key
+                0x00000226       0x6c keyboard/keyboard.o
+                0x00000226                keypad_get_key
+ .text.lcd1602_disable_jtag
+                0x00000292       0x10 lcd16x2/lcd1602.o
+ .text.lcd1602_e_pulse
+                0x000002a2       0x1e lcd16x2/lcd1602.o
+ .text.lcd1602_send_halfbyte
+                0x000002c0       0x32 lcd16x2/lcd1602.o
+ .text.lcd1602_send_byte
+                0x000002f2       0x28 lcd16x2/lcd1602.o
+ .text.lcd1602_command
+                0x0000031a        0x6 lcd16x2/lcd1602.o
+ .text.lcd1602_char
+                0x00000320        0x6 lcd16x2/lcd1602.o
+ .text.lcd1602_clear
+                0x00000326       0x12 lcd16x2/lcd1602.o
+                0x00000326                lcd1602_clear
+ .text.lcd1602_init
+                0x00000338       0x6a lcd16x2/lcd1602.o
+                0x00000338                lcd1602_init
+ .text.lcd1602_set_pos
+                0x000003a2        0xa lcd16x2/lcd1602.o
+                0x000003a2                lcd1602_set_pos
+ .text.lcd1602_print_string
+                0x000003ac       0x24 lcd16x2/lcd1602.o
+                0x000003ac                lcd1602_print_string
+ .text.lcd1602_off
+                0x000003d0       0x12 lcd16x2/lcd1602.o
+                0x000003d0                lcd1602_off
+ .text.lcd_select
+                0x000003e2        0x8 lcd/lcd.o
+ .text.lcd_unselect
+                0x000003ea        0x8 lcd/lcd.o
+ .text.lcd_write_cmd
+                0x000003f2       0x1a lcd/lcd.o
+ .text.lcd_write_data
+                0x0000040c       0x1a lcd/lcd.o
+ .text.lcd_set_addr_window
+                0x00000426       0x46 lcd/lcd.o
+ .text.lcd_draw_5x7
+                0x0000046c       0xb4 lcd/lcd.o
+ .text.utf8_ru_to_index
+                0x00000520       0x2a lcd/lcd.o
+ .text.lcd_reset
+                0x0000054a       0x3e lcd/lcd.o
+ .text.lcd_port_init
+                0x00000588       0x1a lcd/lcd.o
+                0x00000588                lcd_port_init
+ .text.lcd_init
+                0x000005a2       0xf2 lcd/lcd.o
+                0x000005a2                lcd_init
+ .text.lcd_fill_color
+                0x00000694       0x4c lcd/lcd.o
+                0x00000694                lcd_fill_color
+ .text.lcd_draw_pixel
+                0x000006e0       0x36 lcd/lcd.o
+                0x000006e0                lcd_draw_pixel
+ .text.lcd_draw_char
+                0x00000716       0x5c lcd/lcd.o
+                0x00000716                lcd_draw_char
+ .text.lcd_print_string
+                0x00000772      0x106 lcd/lcd.o
+                0x00000772                lcd_print_string
+ .text.lcd_fill_rect
+                0x00000878       0x82 lcd/lcd.o
+                0x00000878                lcd_fill_rect
+ .text.led_bar_disable_jtag
+                0x000008fa        0xe led_bar/led_bar.o
+ .text.led_bar_reverse_bits
+                0x00000908       0x18 led_bar/led_bar.o
+ .text.led_bar_init
+                0x00000920        0xa led_bar/led_bar.o
+                0x00000920                led_bar_init
+ .text.led_bar_off
+                0x0000092a        0x6 led_bar/led_bar.o
+                0x0000092a                led_bar_off
+ .text.led_bar_set_value
+                0x00000930        0x8 led_bar/led_bar.o
+                0x00000930                led_bar_set_value
+ .text.center_button_double_pressed
+                0x00000938       0x30 main.o
+                0x00000938                center_button_double_pressed
+ .text.spi_init
+                0x00000968        0xa main.o
+                0x00000968                spi_init
+ .text.clock_init
+                0x00000972        0xc main.o
+                0x00000972                clock_init
+ .text.main     0x0000097e      0x1d8 main.o
+                0x0000097e                main
+ .text.max31865_make_config
+                0x00000b56        0x4 max31865/max31865.o
+ .text.spi_mode_tft
+                0x00000b5a        0x8 max31865/max31865.o
+ .text.spi_mode_max31865
+                0x00000b62        0xe max31865/max31865.o
+ .text.max31865_spi_transfer
+                0x00000b70        0xc max31865/max31865.o
+ .text.max31865_select
+                0x00000b7c       0x10 max31865/max31865.o
+ .text.max31865_unselect
+                0x00000b8c        0xa max31865/max31865.o
+ .text.max31865_write_reg
+                0x00000b96       0x1c max31865/max31865.o
+ .text.max31865_read_reg
+                0x00000bb2       0x1a max31865/max31865.o
+ .text.max31865_clear_faults
+                0x00000bcc        0xa max31865/max31865.o
+ .text.max31865_read_fault
+                0x00000bd6        0x6 max31865/max31865.o
+                0x00000bd6                max31865_read_fault
+ .text.max31865_read_rtd_raw_once
+                0x00000bdc       0x2e max31865/max31865.o
+ .text.max31865_read_rtd_raw_average
+                0x00000c0a       0x70 max31865/max31865.o
+ .text.max31865_init
+                0x00000c7a       0x34 max31865/max31865.o
+                0x00000c7a                max31865_init
+ .text.max31865_read_temp_c10
+                0x00000cae       0x6a max31865/max31865.o
+                0x00000cae                max31865_read_temp_c10
+ .text.menu_board_1_reset
+                0x00000d18        0xa menus/menu_board_1/menu_board_1.o
+                0x00000d18                menu_board_1_reset
+ .text.menu_board_1_get_selected
+                0x00000d22        0x6 menus/menu_board_1/menu_board_1.o
+                0x00000d22                menu_board_1_get_selected
+ .text.menu_board_1_draw_item
+                0x00000d28       0x8a menus/menu_board_1/menu_board_1.o
+                0x00000d28                menu_board_1_draw_item
+ .text.menu_board_1_draw
+                0x00000db2       0x22 menus/menu_board_1/menu_board_1.o
+                0x00000db2                menu_board_1_draw
+ .text.menu_board_1_up
+                0x00000dd4       0x20 menus/menu_board_1/menu_board_1.o
+                0x00000dd4                menu_board_1_up
+ .text.menu_board_1_down
+                0x00000df4       0x2c menus/menu_board_1/menu_board_1.o
+                0x00000df4                menu_board_1_down
+ .text.menu_draw_item
+                0x00000e20       0x8a menus/menu_board_2/menu_board_2.o
+                0x00000e20                menu_draw_item
+ .text.menu_draw
+                0x00000eaa       0x22 menus/menu_board_2/menu_board_2.o
+                0x00000eaa                menu_draw
+ .text.menu_up  0x00000ecc       0x20 menus/menu_board_2/menu_board_2.o
+                0x00000ecc                menu_up
+ .text.menu_down
+                0x00000eec       0x2c menus/menu_board_2/menu_board_2.o
+                0x00000eec                menu_down
+ .text.nav_buttons_read_raw
+                0x00000f18       0x2c nav_buttons/nav_buttons.o
+ .text.nav_buttons_init
+                0x00000f44        0xe nav_buttons/nav_buttons.o
+                0x00000f44                nav_buttons_init
+ .text.nav_buttons_get_key
+                0x00000f52       0x3c nav_buttons/nav_buttons.o
+                0x00000f52                nav_buttons_get_key
+ .text.RTC_ConvertFromDec
+                0x00000f8e       0x16 rtc/rtc.o
+                0x00000f8e                RTC_ConvertFromDec
+ .text.RTC_ConvertFromBinDec
+                0x00000fa4       0x26 rtc/rtc.o
+                0x00000fa4                RTC_ConvertFromBinDec
+ .text.rtc_init
+                0x00000fca        0x6 rtc/rtc.o
+                0x00000fca                rtc_init
+ .text.rtc_read
+                0x00000fd0       0xe4 rtc/rtc.o
+                0x00000fd0                rtc_read
+ .text.rtc_write
+                0x000010b4       0x5a rtc/rtc.o
+                0x000010b4                rtc_write
+ .text.screen_board_select_draw_item
+                0x0000110e       0x7e screens/board_select/board_select.o
+ .text.screen_board_select_draw
+                0x0000118c       0x40 screens/board_select/board_select.o
+ .text.screen_board_select_start
+                0x000011cc        0xc screens/board_select/board_select.o
+                0x000011cc                screen_board_select_start
+ .text.screen_board_select_key
+                0x000011d8       0x8a screens/board_select/board_select.o
+                0x000011d8                screen_board_select_key
+ .text.screen_home_draw_left_signal
+                0x00001262       0x64 screens/home/home_screen.o
+ .text.screen_home_draw_right_signal
+                0x000012c6       0x64 screens/home/home_screen.o
+ .text.screen_home_draw_signals
+                0x0000132a       0x2a screens/home/home_screen.o
+ .text.screen_home_draw_chip_pins
+                0x00001354       0x56 screens/home/home_screen.o
+ .text.screen_home_draw_chip_body
+                0x000013aa       0x82 screens/home/home_screen.o
+ .text.screen_home_draw_chip
+                0x0000142c        0x8 screens/home/home_screen.o
+ .text.screen_home_start
+                0x00001434       0x48 screens/home/home_screen.o
+                0x00001434                screen_home_start
+ .text.screen_home_key
+                0x0000147c       0x12 screens/home/home_screen.o
+                0x0000147c                screen_home_key
+ .text.screen_keypad_test_start
+                0x0000148e       0x38 screens/keyboard_test/keyboard_test.o
+                0x0000148e                screen_keypad_test_start
+ .text.screen_keypad_test_key
+                0x000014c6       0x8c screens/keyboard_test/keyboard_test.o
+                0x000014c6                screen_keypad_test_key
+ .text.screen_led_bar_test_draw_binary
+                0x00001552       0x72 screens/led_bar_test/led_bar_test.o
+ .text.screen_led_bar_test_draw_value
+                0x000015c4        0x4 screens/led_bar_test/led_bar_test.o
+ .text.screen_led_bar_test_auto_update
+                0x000015c8       0x3a screens/led_bar_test/led_bar_test.o
+ .text.screen_led_bar_test_start
+                0x00001602       0x7c screens/led_bar_test/led_bar_test.o
+                0x00001602                screen_led_bar_test_start
+ .text.screen_led_bar_test_key
+                0x0000167e       0x58 screens/led_bar_test/led_bar_test.o
+                0x0000167e                screen_led_bar_test_key
+ .text.rtc_days_in_month
+                0x000016d6       0x34 screens/rtc_test/rtc_test.o
+ .text.rtc_limit_date
+                0x0000170a       0x48 screens/rtc_test/rtc_test.o
+ .text.rtc_next_field
+                0x00001752       0x38 screens/rtc_test/rtc_test.o
+ .text.rtc_prev_field
+                0x0000178a       0x3c screens/rtc_test/rtc_test.o
+ .text.rtc_increase_field
+                0x000017c6       0xc8 screens/rtc_test/rtc_test.o
+ .text.rtc_decrease_field
+                0x0000188e       0xce screens/rtc_test/rtc_test.o
+ .text.screen_rtc_test_draw_view_static
+                0x0000195c       0xb4 screens/rtc_test/rtc_test.o
+ .text.rtc_draw_2digits
+                0x00001a10       0x74 screens/rtc_test/rtc_test.o
+ .text.screen_rtc_test_draw_view_values
+                0x00001a84       0xa2 screens/rtc_test/rtc_test.o
+ .text.rtc_draw_date_field_2digits
+                0x00001b26       0x30 screens/rtc_test/rtc_test.o
+ .text.rtc_draw_time_field_2digits
+                0x00001b56       0x30 screens/rtc_test/rtc_test.o
+ .text.screen_rtc_test_clear_work_area
+                0x00001b86       0x1a screens/rtc_test/rtc_test.o
+ .text.screen_rtc_test_draw_edit_date
+                0x00001ba0       0xd4 screens/rtc_test/rtc_test.o
+ .text.screen_rtc_test_draw_edit_time
+                0x00001c74       0xb8 screens/rtc_test/rtc_test.o
+ .text.screen_rtc_test_draw
+                0x00001d2c       0x28 screens/rtc_test/rtc_test.o
+ .text.rtc_save_edit
+                0x00001d54       0x82 screens/rtc_test/rtc_test.o
+ .text.screen_rtc_test_start
+                0x00001dd6       0x52 screens/rtc_test/rtc_test.o
+                0x00001dd6                screen_rtc_test_start
+ .text.screen_rtc_test_key
+                0x00001e28       0xf0 screens/rtc_test/rtc_test.o
+                0x00001e28                screen_rtc_test_key
+ .text.screen_servo_test_draw_angle
+                0x00001f18       0xf8 screens/servo_test/servo_test.o
+ .text.screen_servo_test_start
+                0x00002010       0x66 screens/servo_test/servo_test.o
+                0x00002010                screen_servo_test_start
+ .text.screen_servo_test_key
+                0x00002076       0x3e screens/servo_test/servo_test.o
+                0x00002076                screen_servo_test_key
+ .text.screen_seven_segment_test_draw_value
+                0x000020b4      0x1ac screens/seven_segment_test/seven_segment_test.o
+ .text.screen_seven_segment_test_auto_update
+                0x00002260       0x4c screens/seven_segment_test/seven_segment_test.o
+ .text.screen_seven_segment_test_start
+                0x000022ac       0xa4 screens/seven_segment_test/seven_segment_test.o
+                0x000022ac                screen_seven_segment_test_start
+ .text.screen_seven_segment_test_key
+                0x00002350       0xe6 screens/seven_segment_test/seven_segment_test.o
+                0x00002350                screen_seven_segment_test_key
+ .text.screen_speaker_test_draw_status
+                0x00002436       0x3a screens/speaker_test/speaker_test.o
+ .text.screen_speaker_test_stop_melody
+                0x00002470       0x1a screens/speaker_test/speaker_test.o
+ .text.screen_speaker_test_start_melody
+                0x0000248a       0x20 screens/speaker_test/speaker_test.o
+ .text.screen_speaker_test_process_melody
+                0x000024aa       0x7c screens/speaker_test/speaker_test.o
+ .text.screen_speaker_test_start
+                0x00002526       0x9c screens/speaker_test/speaker_test.o
+                0x00002526                screen_speaker_test_start
+ .text.screen_speaker_test_key
+                0x000025c2       0x7c screens/speaker_test/speaker_test.o
+                0x000025c2                screen_speaker_test_key
+ .text.screen_stepper_test_draw_u16
+                0x0000263e       0xa8 screens/stepper_test/stepper_test.o
+ .text.screen_stepper_test_draw_status
+                0x000026e6       0x54 screens/stepper_test/stepper_test.o
+ .text.screen_stepper_test_start
+                0x0000273a       0x86 screens/stepper_test/stepper_test.o
+                0x0000273a                screen_stepper_test_start
+ .text.screen_stepper_test_key
+                0x000027c0       0xdc screens/stepper_test/stepper_test.o
+                0x000027c0                screen_stepper_test_key
+ .text.temp_string_len
+                0x0000289c       0x16 screens/temp_lcd_test/temp_lcd_test.o
+ .text.temp_format_c10
+                0x000028b2      0x21c screens/temp_lcd_test/temp_lcd_test.o
+ .text.temp_get_color_mode
+                0x00002ace       0x24 screens/temp_lcd_test/temp_lcd_test.o
+ .text.temp_get_tft_color
+                0x00002af2       0x1a screens/temp_lcd_test/temp_lcd_test.o
+ .text.temp_format_tft_c10
+                0x00002b0c      0x206 screens/temp_lcd_test/temp_lcd_test.o
+ .text.temp_tft_draw
+                0x00002d12       0xfe screens/temp_lcd_test/temp_lcd_test.o
+ .text.temp_lcd1602_print_center_line
+                0x00002e10       0x56 screens/temp_lcd_test/temp_lcd_test.o
+ .text.temp_lcd1602_print
+                0x00002e66       0x40 screens/temp_lcd_test/temp_lcd_test.o
+ .text.temp_update
+                0x00002ea6       0x36 screens/temp_lcd_test/temp_lcd_test.o
+ .text.screen_temp_lcd_test_start
+                0x00002edc       0x2e screens/temp_lcd_test/temp_lcd_test.o
+                0x00002edc                screen_temp_lcd_test_start
+ .text.screen_temp_lcd_test_key
+                0x00002f0a       0x52 screens/temp_lcd_test/temp_lcd_test.o
+                0x00002f0a                screen_temp_lcd_test_key
+ .text.servo_set_pulse_us
+                0x00002f5c       0x34 servo/servo.o
+ .text.servo_set_angle
+                0x00002f90       0x2c servo/servo.o
+                0x00002f90                servo_set_angle
+ .text.servo_init
+                0x00002fbc       0x50 servo/servo.o
+                0x00002fbc                servo_init
+ .text.servo_left
+                0x0000300c       0x1c servo/servo.o
+                0x0000300c                servo_left
+ .text.servo_right
+                0x00003028       0x1e servo/servo.o
+                0x00003028                servo_right
+ .text.servo_get_angle
+                0x00003046        0x6 servo/servo.o
+                0x00003046                servo_get_angle
+ .text.servo_stop
+                0x0000304c       0x1e servo/servo.o
+                0x0000304c                servo_stop
+ .text.__vector_13
+                0x0000306a       0x6e servo/servo.o
+                0x0000306a                __vector_13
+ .text.seven_segment_digits_off
+                0x000030d8        0x8 seven_segment/seven_segment.o
+ .text.seven_segment_digit_on
+                0x000030e0       0x2a seven_segment/seven_segment.o
+ .text.seven_segment_write_digit
+                0x0000310a       0x18 seven_segment/seven_segment.o
+ .text.seven_segment_timer_init
+                0x00003122       0x22 seven_segment/seven_segment.o
+ .text.seven_segment_enable
+                0x00003144        0x8 seven_segment/seven_segment.o
+                0x00003144                seven_segment_enable
+ .text.seven_segment_disable
+                0x0000314c       0x26 seven_segment/seven_segment.o
+                0x0000314c                seven_segment_disable
+ .text.seven_segment_set_number
+                0x00003172      0x16c seven_segment/seven_segment.o
+                0x00003172                seven_segment_set_number
+ .text.seven_segment_init
+                0x000032de       0x1c seven_segment/seven_segment.o
+                0x000032de                seven_segment_init
+ .text.__vector_16
+                0x000032fa       0xba seven_segment/seven_segment.o
+                0x000032fa                __vector_16
+ .text.__vector_9
+                0x000033b4       0x1c speaker/speaker.o
+                0x000033b4                __vector_9
+ .text.speaker_tone_stop
+                0x000033d0       0x1a speaker/speaker.o
+                0x000033d0                speaker_tone_stop
+ .text.speaker_init
+                0x000033ea       0x10 speaker/speaker.o
+                0x000033ea                speaker_init
+ .text.speaker_tone_start
+                0x000033fa       0xba speaker/speaker.o
+                0x000033fa                speaker_tone_start
+ .text.speaker_beep
+                0x000034b4       0x24 speaker/speaker.o
+                0x000034b4                speaker_beep
+ .text.SM_write_pin
+                0x000034d8       0x36 stepmotor/stepmotor.o
+ .text.SM_set_outputs
+                0x0000350e       0x3c stepmotor/stepmotor.o
+ .text.SM_apply_phase
+                0x0000354a       0x78 stepmotor/stepmotor.o
+ .text.SM_delay_us
+                0x000035c2       0x12 stepmotor/stepmotor.o
+ .text.SM_off   0x000035d4        0xc stepmotor/stepmotor.o
+                0x000035d4                SM_off
+ .text.SM_init  0x000035e0       0x20 stepmotor/stepmotor.o
+                0x000035e0                SM_init
+ .text.SM_step_forward
+                0x00003600       0x28 stepmotor/stepmotor.o
+                0x00003600                SM_step_forward
+ .text.SM_step_back
+                0x00003628       0x2c stepmotor/stepmotor.o
+                0x00003628                SM_step_back
+ .text.SM_forward_steps
+                0x00003654       0x30 stepmotor/stepmotor.o
+                0x00003654                SM_forward_steps
+ .text.SM_back_steps
+                0x00003684       0x30 stepmotor/stepmotor.o
+                0x00003684                SM_back_steps
+ .text.I2C_Init
+                0x000036b4       0x12 twi/twi.o
+                0x000036b4                I2C_Init
+ .text.I2C_StartCondition
+                0x000036c6       0x10 twi/twi.o
+                0x000036c6                I2C_StartCondition
+ .text.I2C_StopCondition
+                0x000036d6        0x8 twi/twi.o
+                0x000036d6                I2C_StopCondition
+ .text.I2C_SendByte
+                0x000036de       0x14 twi/twi.o
+                0x000036de                I2C_SendByte
+ .text.I2C_ReadByte
+                0x000036f2       0x14 twi/twi.o
+                0x000036f2                I2C_ReadByte
+ .text.I2C_ReadLastByte
+                0x00003706       0x14 twi/twi.o
+                0x00003706                I2C_ReadLastByte
+ .text.libgcc.div
+                0x0000371a       0x28 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+                0x0000371a                __udivmodhi4
+ .text.libgcc.div
+                0x00003742       0x44 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+                0x00003742                __udivmodsi4
+ .text.libgcc.div
+                0x00003786       0x28 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
+                0x00003786                __divmodsi4
+ .text.libgcc.div
+                0x000037ae       0x10 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
+                0x000037ae                __negsi2
+ .text.libgcc.mul
+                0x000037be       0x1e c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+                0x000037be                __umulhisi3
+ .text.libgcc.mul
+                0x000037dc        0xc c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_usmulhisi3.o)
+                0x000037dc                __usmulhisi3
+                0x000037de                __usmulhisi3_tail
+ .text.libgcc.mul
+                0x000037e8       0x14 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_muluhisi3.o)
+                0x000037e8                __muluhisi3
+                0x000037fc                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000037fc        0x0 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+                0x000037fc                _exit
+                0x000037fc                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000037fc        0x4 c:/work/atmel_studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00003800                _etext = .
+
+.data           0x00800100      0x5a6 load address 0x00003800
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.keymap   0x00800100        0xc keyboard/keyboard_elements.o
+                0x00800100                keymap
+ .data.input_y  0x0080010c        0x1 screens/keyboard_test/keyboard_test.o
+                0x0080010c                input_y
+ .data.rtc_last_drawn_sec
+                0x0080010d        0x1 screens/rtc_test/rtc_test.o
+ .data.stepper_delay_us
+                0x0080010e        0x2 screens/stepper_test/stepper_test.o
+ .data.temp_last_value
+                0x00800110        0x2 screens/temp_lcd_test/temp_lcd_test.o
+ .data.temp_last_color
+                0x00800112        0x1 screens/temp_lcd_test/temp_lcd_test.o
+ .data.servo_pulse_us
+                0x00800113        0x2 servo/servo.o
+ .data.servo_angle
+                0x00800115        0x1 servo/servo.o
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.menu_items_board_1
+                0x00800116       0x78 menus/menu_board_1/menu_items_board_1.o
+                0x00800116                menu_items_board_1
+ .rodata.menu_items
+                0x0080018e       0xc8 menus/menu_board_2/menu_items_board_2.o
+                0x0080018e                menu_items
+ .rodata.str1.1
+                0x00800256       0x5c screens/board_select/board_select.o
+ .rodata.str1.1
+                0x008002b2       0x2e screens/home/home_screen.o
+ .rodata.str1.1
+                0x008002e0       0x1e screens/keyboard_test/keyboard_test.o
+ .rodata.str1.1
+                0x008002fe       0x7f screens/led_bar_test/led_bar_test.o
+ .rodata.str1.1
+                0x0080037d      0x14f screens/rtc_test/rtc_test.o
+                                0x162 (size before relaxing)
+ .rodata.str1.1
+                0x008004cc       0x31 screens/servo_test/servo_test.o
+                                 0x47 (size before relaxing)
+ .rodata.str1.1
+                0x008004fd       0x6f screens/seven_segment_test/seven_segment_test.o
+                                 0x89 (size before relaxing)
+ .rodata.str1.1
+                0x0080056c       0x77 screens/speaker_test/speaker_test.o
+                                 0xb6 (size before relaxing)
+ .rodata.speaker_melody
+                0x008005e3       0x24 screens/speaker_test/speaker_test.o
+ .rodata.str1.1
+                0x00800607       0x60 screens/stepper_test/stepper_test.o
+                                 0x8e (size before relaxing)
+ .rodata.str1.1
+                0x00800667       0x34 screens/temp_lcd_test/temp_lcd_test.o
+                                 0x4e (size before relaxing)
+ .rodata.seg_table
+                0x0080069b        0xa seven_segment/seven_segment.o
+ *(.gnu.linkonce.r*)
+                0x008006a6                . = ALIGN (0x2)
+ *fill*         0x008006a5        0x1 
+                0x008006a6                _edata = .
+                0x008006a6                PROVIDE (__data_end, .)
+
+.bss            0x008006a6       0x38
+                0x008006a6                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.screen_mode
+                0x008006a6        0x1 main.o
+                0x008006a6                screen_mode
+ .bss.menu_top  0x008006a7        0x1 main.o
+                0x008006a7                menu_top
+ .bss.menu_selected
+                0x008006a8        0x1 main.o
+                0x008006a8                menu_selected
+ .bss.menu_board_1_top
+                0x008006a9        0x1 menus/menu_board_1/menu_board_1.o
+ .bss.menu_board_1_selected
+                0x008006aa        0x1 menus/menu_board_1/menu_board_1.o
+ .bss.last_board_key
+                0x008006ab        0x1 screens/board_select/board_select.o
+ .bss.board_selected
+                0x008006ac        0x1 screens/board_select/board_select.o
+ .bss.last_test_key
+                0x008006ad        0x1 screens/keyboard_test/keyboard_test.o
+                0x008006ad                last_test_key
+ .bss.input_x   0x008006ae        0x1 screens/keyboard_test/keyboard_test.o
+                0x008006ae                input_x
+ .bss.led_bar_pause
+                0x008006af        0x1 screens/led_bar_test/led_bar_test.o
+ .bss.led_bar_auto_tick
+                0x008006b0        0x1 screens/led_bar_test/led_bar_test.o
+ .bss.led_bar_value
+                0x008006b1        0x1 screens/led_bar_test/led_bar_test.o
+ .bss.last_led_bar_key
+                0x008006b2        0x1 screens/led_bar_test/led_bar_test.o
+ .bss.rtc_view_update_tick
+                0x008006b3        0x1 screens/rtc_test/rtc_test.o
+ .bss.rtc_saved_message
+                0x008006b4        0x1 screens/rtc_test/rtc_test.o
+ .bss.rtc_selected_field
+                0x008006b5        0x1 screens/rtc_test/rtc_test.o
+ .bss.rtc_screen_mode
+                0x008006b6        0x1 screens/rtc_test/rtc_test.o
+ .bss.rtc_edit  0x008006b7        0x7 screens/rtc_test/rtc_test.o
+ .bss.rtc_current
+                0x008006be        0x7 screens/rtc_test/rtc_test.o
+ .bss.last_rtc_key
+                0x008006c5        0x1 screens/rtc_test/rtc_test.o
+ .bss.last_servo_key
+                0x008006c6        0x1 screens/servo_test/servo_test.o
+ .bss.seven_segment_auto_tick
+                0x008006c7        0x1 screens/seven_segment_test/seven_segment_test.o
+ .bss.seven_segment_auto_count
+                0x008006c8        0x1 screens/seven_segment_test/seven_segment_test.o
+ .bss.seven_segment_test_value
+                0x008006c9        0x2 screens/seven_segment_test/seven_segment_test.o
+ .bss.last_seven_segment_key
+                0x008006cb        0x1 screens/seven_segment_test/seven_segment_test.o
+ .bss.speaker_note_time
+                0x008006cc        0x2 screens/speaker_test/speaker_test.o
+ .bss.speaker_melody_index
+                0x008006ce        0x1 screens/speaker_test/speaker_test.o
+ .bss.speaker_melody_active
+                0x008006cf        0x1 screens/speaker_test/speaker_test.o
+ .bss.last_speaker_key
+                0x008006d0        0x1 screens/speaker_test/speaker_test.o
+ .bss.stepper_position
+                0x008006d1        0x2 screens/stepper_test/stepper_test.o
+ .bss.last_stepper_key
+                0x008006d3        0x1 screens/stepper_test/stepper_test.o
+ .bss.temp_update_tick
+                0x008006d4        0x1 screens/temp_lcd_test/temp_lcd_test.o
+ .bss.last_temp_key
+                0x008006d5        0x1 screens/temp_lcd_test/temp_lcd_test.o
+ .bss.servo_phase
+                0x008006d6        0x1 servo/servo.o
+ .bss.seg_enabled
+                0x008006d7        0x1 seven_segment/seven_segment.o
+ .bss.seg_current_digit
+                0x008006d8        0x1 seven_segment/seven_segment.o
+ .bss.seg_thousands
+                0x008006d9        0x1 seven_segment/seven_segment.o
+ .bss.seg_hundreds
+                0x008006da        0x1 seven_segment/seven_segment.o
+ .bss.seg_tens  0x008006db        0x1 seven_segment/seven_segment.o
+ .bss.seg_units
+                0x008006dc        0x1 seven_segment/seven_segment.o
+ .bss.sm_phase  0x008006dd        0x1 stepmotor/stepmotor.o
+ *(COMMON)
+                0x008006de                PROVIDE (__bss_end, .)
+                0x00003800                __data_load_start = LOADADDR (.data)
+                0x00003da6                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008006de        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008006de                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 font/font_5x7.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 keyboard/keyboard.o
+ .comment       0x00000030       0x31 keyboard/keyboard_elements.o
+ .comment       0x00000030       0x31 lcd16x2/lcd1602.o
+ .comment       0x00000030       0x31 lcd/lcd.o
+ .comment       0x00000030       0x31 led_bar/led_bar.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 max31865/max31865.o
+ .comment       0x00000030       0x31 menus/menu_board_1/menu_board_1.o
+ .comment       0x00000030       0x31 menus/menu_board_1/menu_items_board_1.o
+ .comment       0x00000030       0x31 menus/menu_board_2/menu_board_2.o
+ .comment       0x00000030       0x31 menus/menu_board_2/menu_items_board_2.o
+ .comment       0x00000030       0x31 nav_buttons/nav_buttons.o
+ .comment       0x00000030       0x31 rtc/rtc.o
+ .comment       0x00000030       0x31 screens/board_select/board_select.o
+ .comment       0x00000030       0x31 screens/home/home_screen.o
+ .comment       0x00000030       0x31 screens/keyboard_test/keyboard_test.o
+ .comment       0x00000030       0x31 screens/led_bar_test/led_bar_test.o
+ .comment       0x00000030       0x31 screens/rtc_test/rtc_test.o
+ .comment       0x00000030       0x31 screens/servo_test/servo_test.o
+ .comment       0x00000030       0x31 screens/seven_segment_test/seven_segment_test.o
+ .comment       0x00000030       0x31 screens/speaker_test/speaker_test.o
+ .comment       0x00000030       0x31 screens/stepper_test/stepper_test.o
+ .comment       0x00000030       0x31 screens/temp_lcd_test/temp_lcd_test.o
+ .comment       0x00000030       0x31 servo/servo.o
+ .comment       0x00000030       0x31 seven_segment/seven_segment.o
+ .comment       0x00000030       0x31 speaker/speaker.o
+ .comment       0x00000030       0x31 stepmotor/stepmotor.o
+ .comment       0x00000030       0x31 twi/twi.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/WORK/Atmel_studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega1284p/avr51/crtatmega1284p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x868
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x18 font/font_5x7.o
+ .debug_aranges
+                0x00000018       0x50 keyboard/keyboard.o
+ .debug_aranges
+                0x00000068       0x18 keyboard/keyboard_elements.o
+ .debug_aranges
+                0x00000080       0x70 lcd16x2/lcd1602.o
+ .debug_aranges
+                0x000000f0       0x90 lcd/lcd.o
+ .debug_aranges
+                0x00000180       0x40 led_bar/led_bar.o
+ .debug_aranges
+                0x000001c0       0x38 main.o
+ .debug_aranges
+                0x000001f8       0x88 max31865/max31865.o
+ .debug_aranges
+                0x00000280       0x48 menus/menu_board_1/menu_board_1.o
+ .debug_aranges
+                0x000002c8       0x18 menus/menu_board_1/menu_items_board_1.o
+ .debug_aranges
+                0x000002e0       0x38 menus/menu_board_2/menu_board_2.o
+ .debug_aranges
+                0x00000318       0x18 menus/menu_board_2/menu_items_board_2.o
+ .debug_aranges
+                0x00000330       0x30 nav_buttons/nav_buttons.o
+ .debug_aranges
+                0x00000360       0x40 rtc/rtc.o
+ .debug_aranges
+                0x000003a0       0x38 screens/board_select/board_select.o
+ .debug_aranges
+                0x000003d8       0x58 screens/home/home_screen.o
+ .debug_aranges
+                0x00000430       0x28 screens/keyboard_test/keyboard_test.o
+ .debug_aranges
+                0x00000458       0x40 screens/led_bar_test/led_bar_test.o
+ .debug_aranges
+                0x00000498       0xa8 screens/rtc_test/rtc_test.o
+ .debug_aranges
+                0x00000540       0x30 screens/servo_test/servo_test.o
+ .debug_aranges
+                0x00000570       0x38 screens/seven_segment_test/seven_segment_test.o
+ .debug_aranges
+                0x000005a8       0x48 screens/speaker_test/speaker_test.o
+ .debug_aranges
+                0x000005f0       0x38 screens/stepper_test/stepper_test.o
+ .debug_aranges
+                0x00000628       0x70 screens/temp_lcd_test/temp_lcd_test.o
+ .debug_aranges
+                0x00000698       0x60 servo/servo.o
+ .debug_aranges
+                0x000006f8       0x68 seven_segment/seven_segment.o
+ .debug_aranges
+                0x00000760       0x40 speaker/speaker.o
+ .debug_aranges
+                0x000007a0       0x78 stepmotor/stepmotor.o
+ .debug_aranges
+                0x00000818       0x50 twi/twi.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x8e1f
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x792 C:/WORK/Atmel_studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega1284p/avr51/crtatmega1284p.o
+ .debug_info    0x00000792       0xf4 font/font_5x7.o
+ .debug_info    0x00000886      0x3f2 keyboard/keyboard.o
+ .debug_info    0x00000c78       0x8c keyboard/keyboard_elements.o
+ .debug_info    0x00000d04      0x5c5 lcd16x2/lcd1602.o
+ .debug_info    0x000012c9      0xf3d lcd/lcd.o
+ .debug_info    0x00002206      0x14b led_bar/led_bar.o
+ .debug_info    0x00002351      0x6e4 main.o
+ .debug_info    0x00002a35      0x4ca max31865/max31865.o
+ .debug_info    0x00002eff      0x26e menus/menu_board_1/menu_board_1.o
+ .debug_info    0x0000316d       0x96 menus/menu_board_1/menu_items_board_1.o
+ .debug_info    0x00003203      0x236 menus/menu_board_2/menu_board_2.o
+ .debug_info    0x00003439       0x96 menus/menu_board_2/menu_items_board_2.o
+ .debug_info    0x000034cf      0x1a5 nav_buttons/nav_buttons.o
+ .debug_info    0x00003674      0x479 rtc/rtc.o
+ .debug_info    0x00003aed      0x3a5 screens/board_select/board_select.o
+ .debug_info    0x00003e92      0x84c screens/home/home_screen.o
+ .debug_info    0x000046de      0x217 screens/keyboard_test/keyboard_test.o
+ .debug_info    0x000048f5      0x4e3 screens/led_bar_test/led_bar_test.o
+ .debug_info    0x00004dd8     0x11d6 screens/rtc_test/rtc_test.o
+ .debug_info    0x00005fae      0x454 screens/servo_test/servo_test.o
+ .debug_info    0x00006402      0x652 screens/seven_segment_test/seven_segment_test.o
+ .debug_info    0x00006a54      0x686 screens/speaker_test/speaker_test.o
+ .debug_info    0x000070da      0x575 screens/stepper_test/stepper_test.o
+ .debug_info    0x0000764f      0x7f9 screens/temp_lcd_test/temp_lcd_test.o
+ .debug_info    0x00007e48      0x2b3 servo/servo.o
+ .debug_info    0x000080fb      0x3fc seven_segment/seven_segment.o
+ .debug_info    0x000084f7      0x1ef speaker/speaker.o
+ .debug_info    0x000086e6      0x5b9 stepmotor/stepmotor.o
+ .debug_info    0x00008c9f      0x180 twi/twi.o
+
+.debug_abbrev   0x00000000     0x2c34
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x729 C:/WORK/Atmel_studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega1284p/avr51/crtatmega1284p.o
+ .debug_abbrev  0x00000729       0x5d font/font_5x7.o
+ .debug_abbrev  0x00000786      0x1d6 keyboard/keyboard.o
+ .debug_abbrev  0x0000095c       0x49 keyboard/keyboard_elements.o
+ .debug_abbrev  0x000009a5      0x1cd lcd16x2/lcd1602.o
+ .debug_abbrev  0x00000b72      0x284 lcd/lcd.o
+ .debug_abbrev  0x00000df6      0x102 led_bar/led_bar.o
+ .debug_abbrev  0x00000ef8      0x17e main.o
+ .debug_abbrev  0x00001076      0x1e5 max31865/max31865.o
+ .debug_abbrev  0x0000125b      0x12c menus/menu_board_1/menu_board_1.o
+ .debug_abbrev  0x00001387       0x50 menus/menu_board_1/menu_items_board_1.o
+ .debug_abbrev  0x000013d7      0x103 menus/menu_board_2/menu_board_2.o
+ .debug_abbrev  0x000014da       0x50 menus/menu_board_2/menu_items_board_2.o
+ .debug_abbrev  0x0000152a      0x105 nav_buttons/nav_buttons.o
+ .debug_abbrev  0x0000162f      0x123 rtc/rtc.o
+ .debug_abbrev  0x00001752      0x131 screens/board_select/board_select.o
+ .debug_abbrev  0x00001883      0x10d screens/home/home_screen.o
+ .debug_abbrev  0x00001990       0xd4 screens/keyboard_test/keyboard_test.o
+ .debug_abbrev  0x00001a64      0x179 screens/led_bar_test/led_bar_test.o
+ .debug_abbrev  0x00001bdd      0x219 screens/rtc_test/rtc_test.o
+ .debug_abbrev  0x00001df6       0xf9 screens/servo_test/servo_test.o
+ .debug_abbrev  0x00001eef      0x16a screens/seven_segment_test/seven_segment_test.o
+ .debug_abbrev  0x00002059      0x1a8 screens/speaker_test/speaker_test.o
+ .debug_abbrev  0x00002201      0x108 screens/stepper_test/stepper_test.o
+ .debug_abbrev  0x00002309      0x1f9 screens/temp_lcd_test/temp_lcd_test.o
+ .debug_abbrev  0x00002502      0x17c servo/servo.o
+ .debug_abbrev  0x0000267e      0x1e9 seven_segment/seven_segment.o
+ .debug_abbrev  0x00002867      0x15f speaker/speaker.o
+ .debug_abbrev  0x000029c6      0x19c stepmotor/stepmotor.o
+ .debug_abbrev  0x00002b62       0xd2 twi/twi.o
+
+.debug_line     0x00000000     0x57a0
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x16a C:/WORK/Atmel_studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega1284p/avr51/crtatmega1284p.o
+ .debug_line    0x0000016a       0x83 font/font_5x7.o
+ .debug_line    0x000001ed      0x323 keyboard/keyboard.o
+ .debug_line    0x00000510       0x3d keyboard/keyboard_elements.o
+ .debug_line    0x0000054d      0x319 lcd16x2/lcd1602.o
+ .debug_line    0x00000866      0x716 lcd/lcd.o
+ .debug_line    0x00000f7c      0x150 led_bar/led_bar.o
+ .debug_line    0x000010cc      0x638 main.o
+ .debug_line    0x00001704      0x35d max31865/max31865.o
+ .debug_line    0x00001a61      0x1eb menus/menu_board_1/menu_board_1.o
+ .debug_line    0x00001c4c       0x48 menus/menu_board_1/menu_items_board_1.o
+ .debug_line    0x00001c94      0x1df menus/menu_board_2/menu_board_2.o
+ .debug_line    0x00001e73       0x48 menus/menu_board_2/menu_items_board_2.o
+ .debug_line    0x00001ebb      0x1b5 nav_buttons/nav_buttons.o
+ .debug_line    0x00002070      0x21a rtc/rtc.o
+ .debug_line    0x0000228a      0x31c screens/board_select/board_select.o
+ .debug_line    0x000025a6      0x308 screens/home/home_screen.o
+ .debug_line    0x000028ae      0x22a screens/keyboard_test/keyboard_test.o
+ .debug_line    0x00002ad8      0x373 screens/led_bar_test/led_bar_test.o
+ .debug_line    0x00002e4b      0x8cb screens/rtc_test/rtc_test.o
+ .debug_line    0x00003716      0x283 screens/servo_test/servo_test.o
+ .debug_line    0x00003999      0x40f screens/seven_segment_test/seven_segment_test.o
+ .debug_line    0x00003da8      0x3ba screens/speaker_test/speaker_test.o
+ .debug_line    0x00004162      0x313 screens/stepper_test/stepper_test.o
+ .debug_line    0x00004475      0x5d7 screens/temp_lcd_test/temp_lcd_test.o
+ .debug_line    0x00004a4c      0x2d5 servo/servo.o
+ .debug_line    0x00004d21      0x3c2 seven_segment/seven_segment.o
+ .debug_line    0x000050e3      0x1f3 speaker/speaker.o
+ .debug_line    0x000052d6      0x33a stepmotor/stepmotor.o
+ .debug_line    0x00005610      0x190 twi/twi.o
+
+.debug_frame    0x00000000     0x1450
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xac keyboard/keyboard.o
+ .debug_frame   0x000000ac       0xdc lcd16x2/lcd1602.o
+ .debug_frame   0x00000188      0x1d0 lcd/lcd.o
+ .debug_frame   0x00000358       0x64 led_bar/led_bar.o
+ .debug_frame   0x000003bc       0x5c main.o
+ .debug_frame   0x00000418      0x140 max31865/max31865.o
+ .debug_frame   0x00000558       0xa0 menus/menu_board_1/menu_board_1.o
+ .debug_frame   0x000005f8       0x80 menus/menu_board_2/menu_board_2.o
+ .debug_frame   0x00000678       0x4c nav_buttons/nav_buttons.o
+ .debug_frame   0x000006c4       0xa0 rtc/rtc.o
+ .debug_frame   0x00000764       0x90 screens/board_select/board_select.o
+ .debug_frame   0x000007f4       0xec screens/home/home_screen.o
+ .debug_frame   0x000008e0       0x54 screens/keyboard_test/keyboard_test.o
+ .debug_frame   0x00000934       0x9c screens/led_bar_test/led_bar_test.o
+ .debug_frame   0x000009d0      0x24c screens/rtc_test/rtc_test.o
+ .debug_frame   0x00000c1c       0x80 screens/servo_test/servo_test.o
+ .debug_frame   0x00000c9c       0xa4 screens/seven_segment_test/seven_segment_test.o
+ .debug_frame   0x00000d40       0xa8 screens/speaker_test/speaker_test.o
+ .debug_frame   0x00000de8       0xc4 screens/stepper_test/stepper_test.o
+ .debug_frame   0x00000eac      0x170 screens/temp_lcd_test/temp_lcd_test.o
+ .debug_frame   0x0000101c       0xc4 servo/servo.o
+ .debug_frame   0x000010e0      0x108 seven_segment/seven_segment.o
+ .debug_frame   0x000011e8       0x94 speaker/speaker.o
+ .debug_frame   0x0000127c      0x144 stepmotor/stepmotor.o
+ .debug_frame   0x000013c0       0x90 twi/twi.o
+
+.debug_str      0x00000000     0x1a86
+ *(.debug_str)
+ .debug_str     0x00000000      0x296 C:/WORK/Atmel_studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega1284p/avr51/crtatmega1284p.o
+ .debug_str     0x00000296      0x189 font/font_5x7.o
+                                0x1bd (size before relaxing)
+ .debug_str     0x0000041f       0xf6 keyboard/keyboard.o
+                                0x28c (size before relaxing)
+ .debug_str     0x00000515       0x20 keyboard/keyboard_elements.o
+                                0x1a4 (size before relaxing)
+ .debug_str     0x00000535       0xe4 lcd16x2/lcd1602.o
+                                0x2d5 (size before relaxing)
+ .debug_str     0x00000619      0x12d lcd/lcd.o
+                                0x33d (size before relaxing)
+ .debug_str     0x00000746       0x79 led_bar/led_bar.o
+                                0x1fd (size before relaxing)
+ .debug_str     0x000007bf      0x30f main.o
+                                0x51e (size before relaxing)
+ .debug_str     0x00000ace      0x15a max31865/max31865.o
+                                0x358 (size before relaxing)
+ .debug_str     0x00000c28       0xa8 menus/menu_board_1/menu_board_1.o
+                                0x2b7 (size before relaxing)
+ .debug_str     0x00000cd0       0x2b menus/menu_board_1/menu_items_board_1.o
+                                0x1bb (size before relaxing)
+ .debug_str     0x00000cfb       0x30 menus/menu_board_2/menu_board_2.o
+                                0x252 (size before relaxing)
+ .debug_str     0x00000d2b       0x2b menus/menu_board_2/menu_items_board_2.o
+                                0x1b3 (size before relaxing)
+ .debug_str     0x00000d56       0x32 nav_buttons/nav_buttons.o
+                                0x21e (size before relaxing)
+ .debug_str     0x00000d88       0xfd rtc/rtc.o
+                                0x291 (size before relaxing)
+ .debug_str     0x00000e85       0x6d screens/board_select/board_select.o
+                                0x2e8 (size before relaxing)
+ .debug_str     0x00000ef2       0xbe screens/home/home_screen.o
+                                0x2bf (size before relaxing)
+ .debug_str     0x00000fb0       0x5a screens/keyboard_test/keyboard_test.o
+                                0x267 (size before relaxing)
+ .debug_str     0x0000100a       0xca screens/led_bar_test/led_bar_test.o
+                                0x348 (size before relaxing)
+ .debug_str     0x000010d4      0x218 screens/rtc_test/rtc_test.o
+                                0x4b8 (size before relaxing)
+ .debug_str     0x000012ec       0x85 screens/servo_test/servo_test.o
+                                0x2a1 (size before relaxing)
+ .debug_str     0x00001371      0x136 screens/seven_segment_test/seven_segment_test.o
+                                0x3c2 (size before relaxing)
+ .debug_str     0x000014a7      0x167 screens/speaker_test/speaker_test.o
+                                0x3c3 (size before relaxing)
+ .debug_str     0x0000160e       0xcd screens/stepper_test/stepper_test.o
+                                0x2f6 (size before relaxing)
+ .debug_str     0x000016db      0x11a screens/temp_lcd_test/temp_lcd_test.o
+                                0x3fa (size before relaxing)
+ .debug_str     0x000017f5       0xb7 servo/servo.o
+                                0x292 (size before relaxing)
+ .debug_str     0x000018ac       0xff seven_segment/seven_segment.o
+                                0x32c (size before relaxing)
+ .debug_str     0x000019ab       0x28 speaker/speaker.o
+                                0x23e (size before relaxing)
+ .debug_str     0x000019d3       0x8e stepmotor/stepmotor.o
+                                0x2a2 (size before relaxing)
+ .debug_str     0x00001a61       0x25 twi/twi.o
+                                0x1fa (size before relaxing)
+
+.debug_loc      0x00000000     0x4a96
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x2e7 keyboard/keyboard.o
+ .debug_loc     0x000002e7      0x400 lcd16x2/lcd1602.o
+ .debug_loc     0x000006e7      0xe82 lcd/lcd.o
+ .debug_loc     0x00001569       0x9e led_bar/led_bar.o
+ .debug_loc     0x00001607      0x158 main.o
+ .debug_loc     0x0000175f      0x3d3 max31865/max31865.o
+ .debug_loc     0x00001b32      0x17a menus/menu_board_1/menu_board_1.o
+ .debug_loc     0x00001cac      0x150 menus/menu_board_2/menu_board_2.o
+ .debug_loc     0x00001dfc       0xe6 nav_buttons/nav_buttons.o
+ .debug_loc     0x00001ee2      0x23b rtc/rtc.o
+ .debug_loc     0x0000211d      0x16f screens/board_select/board_select.o
+ .debug_loc     0x0000228c      0x207 screens/home/home_screen.o
+ .debug_loc     0x00002493       0xd0 screens/keyboard_test/keyboard_test.o
+ .debug_loc     0x00002563      0x191 screens/led_bar_test/led_bar_test.o
+ .debug_loc     0x000026f4      0x80f screens/rtc_test/rtc_test.o
+ .debug_loc     0x00002f03      0x196 screens/servo_test/servo_test.o
+ .debug_loc     0x00003099      0x1e3 screens/seven_segment_test/seven_segment_test.o
+ .debug_loc     0x0000327c      0x15c screens/speaker_test/speaker_test.o
+ .debug_loc     0x000033d8      0x348 screens/stepper_test/stepper_test.o
+ .debug_loc     0x00003720      0x87d screens/temp_lcd_test/temp_lcd_test.o
+ .debug_loc     0x00003f9d      0x1be servo/servo.o
+ .debug_loc     0x0000415b      0x237 seven_segment/seven_segment.o
+ .debug_loc     0x00004392      0x1c0 speaker/speaker.o
+ .debug_loc     0x00004552      0x490 stepmotor/stepmotor.o
+ .debug_loc     0x000049e2       0xb4 twi/twi.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x678
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x40 keyboard/keyboard.o
+ .debug_ranges  0x00000040       0x60 lcd16x2/lcd1602.o
+ .debug_ranges  0x000000a0       0x80 lcd/lcd.o
+ .debug_ranges  0x00000120       0x30 led_bar/led_bar.o
+ .debug_ranges  0x00000150       0x28 main.o
+ .debug_ranges  0x00000178       0x78 max31865/max31865.o
+ .debug_ranges  0x000001f0       0x38 menus/menu_board_1/menu_board_1.o
+ .debug_ranges  0x00000228       0x28 menus/menu_board_2/menu_board_2.o
+ .debug_ranges  0x00000250       0x20 nav_buttons/nav_buttons.o
+ .debug_ranges  0x00000270       0x30 rtc/rtc.o
+ .debug_ranges  0x000002a0       0x28 screens/board_select/board_select.o
+ .debug_ranges  0x000002c8       0x48 screens/home/home_screen.o
+ .debug_ranges  0x00000310       0x18 screens/keyboard_test/keyboard_test.o
+ .debug_ranges  0x00000328       0x30 screens/led_bar_test/led_bar_test.o
+ .debug_ranges  0x00000358       0x98 screens/rtc_test/rtc_test.o
+ .debug_ranges  0x000003f0       0x20 screens/servo_test/servo_test.o
+ .debug_ranges  0x00000410       0x28 screens/seven_segment_test/seven_segment_test.o
+ .debug_ranges  0x00000438       0x38 screens/speaker_test/speaker_test.o
+ .debug_ranges  0x00000470       0x28 screens/stepper_test/stepper_test.o
+ .debug_ranges  0x00000498       0x60 screens/temp_lcd_test/temp_lcd_test.o
+ .debug_ranges  0x000004f8       0x50 servo/servo.o
+ .debug_ranges  0x00000548       0x58 seven_segment/seven_segment.o
+ .debug_ranges  0x000005a0       0x30 speaker/speaker.o
+ .debug_ranges  0x000005d0       0x68 stepmotor/stepmotor.o
+ .debug_ranges  0x00000638       0x40 twi/twi.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(DIPLOM_LAB_STAND.elf elf32-avr)
+LOAD linker stubs
