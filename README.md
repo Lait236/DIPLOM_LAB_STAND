@@ -8,4 +8,8 @@ DIPLOM.kicad_pcb - Разводка управляющей платы.
 
 DIPLOM_BOARD2.kicad_pcb - Разводка платы расширенной периферии.
 
-В DIPLOM_LAB_STAND находятся файлы проекта для Microchip Studio. В DEBUG находится .hex файл для прошивки микроконтроллера. DIPLOM_LAB_STAND.atsln - сам проект.
+В DIPLOM_LAB_STAND находятся файлы проекта для Microchip Studio. 
+
+В DEBUG находится .hex файл для прошивки микроконтроллера. 
+
+DIPLOM_LAB_STAND.atsln - сам проект.
